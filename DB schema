@@ -1,0 +1,13 @@
+{
+    "brand":"",
+    "salesRepId":"",
+    "salesmanName":"",
+    "invoiceAmount":,
+    "retailerId":"",
+    "retailerName":"",
+    "retailerPhone":,
+    "invoiceDate":"",
+    "billNo":"",
+    "pendingAmount":,
+    "collectionDate":""																		
+}
