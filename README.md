@@ -5,6 +5,7 @@ Run the backend project
 Open the project in an ide and then move to terminal and run the following command in terminal
 ```
 npm run dev
+```
 
 DB schema creation and migrations
 
